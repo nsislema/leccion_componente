@@ -1,0 +1,7 @@
+{
+  "name": "leccion_component",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
